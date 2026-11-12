@@ -8,12 +8,11 @@
 </div>
 
 ### About
-
-Software engineer based in Germany with **8+ years of experience** in software development, EVM, blockchain infrastructure, backend engineering, and security.
+Software engineer based in Germany with **7+ years of experience** in software development, EVM, blockchain infrastructure, backend engineering, and security.
 
 Experienced across multiple programming languages and architectures, with a focus on building secure, scalable, and reliable systems.
 
-Currently involved in ongoing development of **PAAL AI**.
+**Contributed to building PAAL AI from the ground up**, taking part in its development from the earliest stages. Still actively involved in its ongoing development and improvement.
 
 Security is a core priority — from multi-layered protection and strict access controls to vulnerability prevention and infrastructure hardening.
 
