@@ -1,6 +1,5 @@
 
 <div align="center">
-### EVM / Blockchain / Security / Infrastructure
 
 `Building systems. Securing infrastructure. Solving complex problems.`
 
