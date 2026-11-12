@@ -40,6 +40,4 @@ Security is a core priority — from multi-layered protection and strict access 
 
 *Less noise. More engineering.*
 
-🇩🇪 Germany
-
 </div>
