@@ -1,7 +1,5 @@
 
 <div align="center">
-
-# Software Engineer
 ### EVM / Blockchain / Security / Infrastructure
 
 `Building systems. Securing infrastructure. Solving complex problems.`
