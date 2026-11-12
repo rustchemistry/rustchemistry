@@ -4,8 +4,6 @@
 # Software Engineer
 ### EVM / Blockchain / Security / Infrastructure
 
-**Germany 🇩🇪 · 6+ Years of Engineering Experience**
-
 `Building systems. Securing infrastructure. Solving complex problems.`
 
 ---
@@ -14,26 +12,16 @@
 
 ### About
 
-Software engineer based in Germany with over 6 years of hands-on development experience.
+Software engineer based in Germany with **6+ years of experience** in software development, EVM, blockchain infrastructure, backend engineering, and security.
 
-I work across different programming languages, architectures, and environments, with a strong focus on EVM-based systems, backend engineering, security, and blockchain infrastructure.
+Experienced across multiple programming languages and architectures, with a focus on building secure, scalable, and reliable systems.
 
-My experience goes beyond writing application code. I focus on understanding systems at a deeper level — how they communicate, execute, scale, fail, and how they can be secured.
+Currently involved in ongoing development of **PAAL AI**.
 
-I don't depend on a single language, framework, or technology. I adapt to the problem and build around the requirements.
-
-A substantial part of my work has been dedicated to the EVM ecosystem, alongside ongoing development work involving **PAAL AI**.
-
-Security is not an optional feature. It's a fundamental engineering requirement.
-
-My approach emphasizes multiple layers of protection, strict access boundaries, input validation, secure communication, and reducing unnecessary exposure.
-
-I believe reliable systems should be designed with failure scenarios and potential attack vectors in mind from the beginning.
+Security is a core priority — from multi-layered protection and strict access controls to vulnerability prevention and infrastructure hardening.
 
 **A system is only as strong as its weakest component.**
-
 ---
-
 ### Development Stack
 
 <div align="center">
