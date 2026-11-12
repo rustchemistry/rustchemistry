@@ -9,7 +9,7 @@
 
 ### About
 
-Software engineer based in Germany with **6+ years of experience** in software development, EVM, blockchain infrastructure, backend engineering, and security.
+Software engineer based in Germany with **8+ years of experience** in software development, EVM, blockchain infrastructure, backend engineering, and security.
 
 Experienced across multiple programming languages and architectures, with a focus on building secure, scalable, and reliable systems.
 
